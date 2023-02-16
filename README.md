@@ -1,6 +1,6 @@
 # Project-Title:
 
-    Blog-Me @:bowtie:
+    Blog-Me :bowtie:
 
 # Project-Description :
 
@@ -9,7 +9,7 @@
 
 # requirements:
 
-    @:computer:
+    :computer:
 
 > axios,react-bootstrap,react,nodemon,mongoose,express
 
@@ -19,11 +19,11 @@
 
 # for use this project
 
-# ---- Back-End
+# Back-End
 
 use `npm run dev ` in to /blog-me /// for start backend blog
 
-# ---- Front-end
+# Front-end
 
 use `npm start` in to /blog-me/client/ /// for show front blog
 
