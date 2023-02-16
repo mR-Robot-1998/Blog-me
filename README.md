@@ -1,21 +1,19 @@
 # Project-Title:
 
-    Blog-Me :bowtie:
+> Blog-Me
 
 # Project-Description :
 
-    This Project Its My Personal Blog for me,I write my action in day
-    and share with my friends
+> This Project Its My Personal Blog for me,I write my action in day
+> and share with my friends
 
 # requirements:
 
-    :computer:
-
-> axios,react-bootstrap,react,nodemon,mongoose,express
+axios,react-bootstrap,react,nodemon,mongoose,express
 
 # Experience :
 
-> React-js and React-bootstrap express mongoose and ...
+React-js and React-bootstrap express mongoose and ...
 
 # for use this project
 
