@@ -1,6 +1,6 @@
 # Project-Title:
 
-    Blog-Me
+    Blog-Me @:bowtie:
 
 # Project-Description :
 
@@ -9,20 +9,22 @@
 
 # requirements:
 
-    axios,react-bootstrap,react,nodemon,mongoose,express
+    @:computer:
+
+> axios,react-bootstrap,react,nodemon,mongoose,express
 
 # Experience :
 
-     React-js and React-bootstrap express mongoose and ...
+> React-js and React-bootstrap express mongoose and ...
 
 # for use this project
 
 # ---- Back-End
 
-    npm run dev in to /blog-me /// for start backend blog
+use `npm run dev ` in to /blog-me /// for start backend blog
 
 # ---- Front-end
 
-    npm start in to /blog-me/client/ /// for show front blog
+use `npm start` in to /blog-me/client/ /// for show front blog
 
 # finish ...
