@@ -23,6 +23,6 @@
 
 # Front-end
 
-> use `npm start` in to /blog-me/client/ /// for show front blog
+> This Front-end Blog : [https://github.com/mR-Robot-1998/blog-me-client]
 
 # finish ...
